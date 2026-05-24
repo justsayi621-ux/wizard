@@ -1,0 +1,26 @@
+{
+  "name": "Free File Wizard - 50+ Free Online Tools",
+  "short_name": "FileWizard",
+  "description": "50+ premium tools - 100% free - PDF, QR, CV, Image, Barcode, Zodiac, Astronomy, SEO tools and more. No signup, no paywalls.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%231e5a96' stroke='%2300f0ff' stroke-width='4'/><text x='50' y='68' font-size='50' text-anchor='middle' fill='white'>🧙</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["utilities", "productivity", "business", "education"],
+  "prefer_related_applications": false,
+  "screenshots": [],
+  "shortcuts": [
+    { "name": "QR Code Generator", "url": "/?tool=qr-gen" },
+    { "name": "PDF Extractor", "url": "/?tool=pdf-extract" },
+    { "name": "CV Builder", "url": "/?tool=resume" }
+  ]
+}
